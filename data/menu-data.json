@@ -1,0 +1,294 @@
+{
+  "brand": {
+    "name": "La Taste x 3 Yue",
+    "title": "Buffet Event Menu | 自助餐活动菜单",
+    "tagline": "Premium buffet experiences for birthdays, baby full moon celebrations, corporate events, weddings and private gatherings.",
+    "taglineZh": "适合生日派对、宝宝满月、公司活动、婚礼及私人聚会的高级自助餐配套。",
+    "heroImage": "assets/images/hero-buffet.webp"
+  },
+  "contact": {
+    "mainBranch": "Gurun Branch",
+    "mainPhone": "012-5533 400",
+    "mainWhatsApp": "60124633400",
+    "secondBranch": "Sg. Petani Branch",
+    "secondPhone": "012-4633 400",
+    "secondWhatsApp": "60124633400",
+    "addressMain": "No. 14, Kompleks Perniagaan Gurun Jaya, Taman Gurun Jaya, 08300 Gurun, Kedah.",
+    "addressSecond": "No. 218 & 219, Jalan Mawar 3/2, Taman Pekan Baru, 08000 Sg. Petani, Kedah."
+  },
+  "highlights": [
+    {
+      "title": "Premium Buffet Styling",
+      "titleZh": "高级自助餐布置",
+      "text": "Beautifully styled setup that elevates every event.",
+      "textZh": "精致布置，让活动更有仪式感。"
+    },
+    {
+      "title": "Freshly Prepared Cuisine",
+      "titleZh": "新鲜准备美食",
+      "text": "Quality ingredients, prepared with care for your guests.",
+      "textZh": "用心准备食材与餐点，适合招待宾客。"
+    },
+    {
+      "title": "Professional Event Team",
+      "titleZh": "专业活动团队",
+      "text": "Experienced service support for smooth celebrations.",
+      "textZh": "有经验的团队协助，让活动流程更顺。"
+    },
+    {
+      "title": "Customisable Menu",
+      "titleZh": "可定制菜单",
+      "text": "Tailored to your needs, theme and preferences.",
+      "textZh": "可根据人数、主题与口味偏好调整。"
+    }
+  ],
+  "packages": [
+    {
+      "name": "Basic Package A",
+      "price": "RM1,388",
+      "nameZh": "基础配套 A",
+      "pax": "for 35 pax | 35人",
+      "rate": "RM39.90 / pax",
+      "summary": "Food x 9 items, dessert x 2 items, beverage x 1",
+      "summaryZh": "主食/小吃 9 项、甜品 2 项、饮料 1 项",
+      "includes": [
+        "Basic decor without theme | 基本布置，不含主题",
+        "E-invitation card | 电子邀请函",
+        "Basic buffet setup | 基本自助餐摆设"
+      ],
+      "accent": "soft"
+    },
+    {
+      "name": "Basic Package B",
+      "price": "RM1,988",
+      "nameZh": "基础配套 B",
+      "pax": "for 35 pax | 35人",
+      "rate": "RM39.90 / pax",
+      "summary": "Food x 9 items, dessert x 2 items, beverage x 1",
+      "summaryZh": "主食/小吃 9 项、甜品 2 项、饮料 1 项",
+      "includes": [
+        "Theme balloon decor and name | 主题气球布置与名字",
+        "Red egg setup | 红鸡蛋布置",
+        "Premium buffet setup | 高级自助餐摆设",
+        "E-invitation card | 电子邀请函",
+        "3 minutes slideshow projector | 3分钟投影短片"
+      ],
+      "accent": "rose"
+    },
+    {
+      "name": "Premium Menu C",
+      "price": "RM1,699",
+      "nameZh": "高级菜单 C",
+      "pax": "for 35 pax | 35人",
+      "rate": "RM48.90 / pax",
+      "summary": "Food x 11 items, premium dessert x 3 items, beverage x 1",
+      "summaryZh": "主食/小吃 11 项、高级甜品 3 项、饮料 1 项",
+      "includes": [
+        "Basic decor without theme | 基本布置，不含主题",
+        "Basic buffet setup | 基本自助餐摆设",
+        "E-invitation card | 电子邀请函"
+      ],
+      "accent": "gold"
+    },
+    {
+      "name": "Premium Menu D",
+      "price": "RM2,288",
+      "nameZh": "高级菜单 D",
+      "pax": "for 35 pax | 35人",
+      "rate": "RM48.90 / pax",
+      "summary": "Food x 10 items, premium dessert x 3 items, beverage x 1",
+      "summaryZh": "主食/小吃 10 项、高级甜品 3 项、饮料 1 项",
+      "includes": [
+        "Theme balloon decor and name | 主题气球布置与名字",
+        "Red egg setup | 红鸡蛋布置",
+        "Premium buffet setup | 高级自助餐摆设",
+        "E-invitation card | 电子邀请函",
+        "3 minutes slideshow projector | 3分钟投影短片",
+        "Welcome sign | 迎宾牌"
+      ],
+      "accent": "charcoal"
+    }
+  ],
+  "menuSections": [
+    {
+      "title": "Soup",
+      "titleZh": "汤品",
+      "note": "Included in Western Fusion Menu | 西式融合菜单包含",
+      "items": [
+        "Cream of Mushroom Soup | 蘑菇忌廉汤",
+        "Garlic Breads | 蒜香面包"
+      ]
+    },
+    {
+      "title": "Salad",
+      "titleZh": "沙拉",
+      "note": "Pick 1 | 选 1 项",
+      "items": [
+        "Garden Salad | 田园沙拉",
+        "Coleslaw Salad | 卷心菜沙拉"
+      ]
+    },
+    {
+      "title": "Carbs - Local Delights",
+      "titleZh": "主食 - 本地风味",
+      "note": "Pick 1 | 选 1 项",
+      "items": [
+        "Butter Rice | 牛油饭",
+        "Nasi Lemak | 椰浆饭",
+        "La Taste Signature Fried Rice | La Taste 招牌炒饭",
+        "Tomato Rice | 番茄饭"
+      ]
+    },
+    {
+      "title": "Carbs - Western",
+      "titleZh": "主食 - 西式",
+      "note": "Pick 1 | 选 1 项",
+      "items": [
+        "Spaghetti Napolitana",
+        "Asam Pedas Spaghetti | 亚参辣味意大利面",
+        "Spaghetti Aglio-Olio | 蒜香橄榄油意大利面",
+        "Alfredo Pasta | 白酱意大利面"
+      ]
+    },
+    {
+      "title": "Chicken",
+      "titleZh": "鸡肉类",
+      "note": "Pick 1 | 选 1 项",
+      "items": [
+        "Peppery Roasted Chicken | 黑胡椒烤鸡",
+        "Teriyaki Chicken Drummet | 照烧鸡翅根",
+        "Korean Chicken Drummet | 韩式鸡翅根",
+        "Ayam Goreng Berempah | 马来香料炸鸡",
+        "Rich Aromatic Curry Chicken | 浓香咖喱鸡",
+        "Fried Chicken Tender with Thai Sauce or Mayo | 炸鸡柳配泰式酱或美乃滋"
+      ]
+    },
+    {
+      "title": "Fish and Seafood",
+      "titleZh": "鱼类与海鲜",
+      "note": "Pick 1 | 选 1 项",
+      "items": [
+        "Crispy Fish Fillets | 香脆鱼柳",
+        "Thai Style Fish Fillets | 泰式鱼柳",
+        "Cereal Fish Fillets | 麦片鱼柳",
+        "Pickled Vegetables Fish with Rice Vermicelli | 酸菜鱼米粉",
+        "Cereal Prawns | 麦片虾",
+        "Curry Prawns | 咖喱虾"
+      ]
+    },
+    {
+      "title": "Canape",
+      "titleZh": "精致小点",
+      "note": "Premium packages: pick 1 | 高级配套选 1 项",
+      "items": [
+        "Tuna Tart Egg Mayo Sandwiches | 吞拿蛋黄酱小三文治",
+        "Mini Burgers Mushroom Baguette | 迷你汉堡蘑菇法棍",
+        "Mini Pizza | 迷你披萨"
+      ]
+    },
+    {
+      "title": "Gourmet Bites and Sides",
+      "titleZh": "小吃与配菜",
+      "note": "Basic: pick 3. Premium: pick 4. | 基础配套选 3 项，高级配套选 4 项",
+      "items": [
+        "Tempura Nugget | 天妇罗鸡块",
+        "Mini Sausages | 迷你香肠",
+        "Takoyaki Ball | 章鱼烧",
+        "Curry Fish Ball | 咖喱鱼丸",
+        "Mantou with Curry or Condensed Milk | 馒头配咖喱或炼奶",
+        "Samosa | 咖喱角",
+        "Spring Roll | 春卷",
+        "French Fries | 薯条",
+        "Fried Dumplings | 炸水饺",
+        "Fried Breaded Scallop | 炸扇贝",
+        "Taiwan Sausage | 台湾香肠",
+        "Penang Lobak | 槟城五香卷",
+        "Money Pocket | 钱袋",
+        "Fried Prawn Roll | 炸虾卷",
+        "Mini Tuna Toast | 迷你吞拿吐司",
+        "Assorted Dimsum (+RM3 / pax) | 杂锦点心（+RM3 / 人）"
+      ]
+    },
+    {
+      "title": "Dessert - Normal Menu",
+      "titleZh": "甜品 - 普通菜单",
+      "note": "Basic: pick 1 normal + 1 premium. Premium: pick 2 normal + 1 premium. | 基础配套选 1 普通 + 1 高级，高级配套选 2 普通 + 1 高级",
+      "items": [
+        "Belgian Waffle | 比利时华夫饼",
+        "Assorted Fruit Tart | 杂锦水果塔",
+        "Tofu Pudding | 豆腐花",
+        "Mango Pudding | 芒果布丁",
+        "Iced Jelly | 冰果冻",
+        "Aiyu Jelly | 爱玉冰"
+      ]
+    },
+    {
+      "title": "Dessert - Premium Menu",
+      "titleZh": "甜品 - 高级菜单",
+      "note": "Premium dessert choices | 高级甜品选择",
+      "items": [
+        "Fruits Rojak | 水果 Rojak",
+        "Creme Brulee | 焦糖布蕾",
+        "Opera Cake | 歌剧院蛋糕",
+        "Creme Brulee Cheese Tart | 焦糖布蕾芝士塔",
+        "Strawberry Panna Cotta | 草莓奶冻",
+        "Blueberry Panna Cotta | 蓝莓奶冻"
+      ]
+    },
+    {
+      "title": "Beverage",
+      "titleZh": "饮料",
+      "note": "Select 1 | 选 1 项",
+      "items": [
+        "Iced Lemon Tea | 冰柠檬茶",
+        "Iced Peach Tea | 冰桃茶",
+        "Orange Juice | 橙汁",
+        "Blackcurrant Juice | 黑加仑汁",
+        "Mint Lemonade | 薄荷柠檬水",
+        "Mint Mojito (+RM3 / pax) | 薄荷 Mojito（+RM3 / 人）"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "assets/images/gallery-black-gold-setup.webp",
+      "alt": "Black and gold buffet setup"
+    },
+    {
+      "src": "assets/images/gallery-buffet-line.webp",
+      "alt": "Elegant buffet line"
+    },
+    {
+      "src": "assets/images/gallery-balloon-dessert.webp",
+      "alt": "Dessert table with balloon styling"
+    },
+    {
+      "src": "assets/images/gallery-pink-event.webp",
+      "alt": "Pink event decoration"
+    },
+    {
+      "src": "assets/images/gallery-canape-tower.webp",
+      "alt": "Canape display tower"
+    },
+    {
+      "src": "assets/images/gallery-dessert-table.webp",
+      "alt": "Dessert and event table"
+    },
+    {
+      "src": "assets/images/gallery-mini-cups.webp",
+      "alt": "Mini dessert cups"
+    },
+    {
+      "src": "assets/images/gallery-buffet-dishes.webp",
+      "alt": "Buffet dishes"
+    }
+  ],
+  "terms": [
+    "This buffet menu is valid for dine-in only with minimum order for event's space: Package A RM1,388, Package B RM1,988, Premium C RM1,699, Premium D RM2,288. | 此自助餐菜单适用于 event space，最低消费为：A 配套 RM1,388、B 配套 RM1,988、高级 C RM1,699、高级 D RM2,288。",
+    "Additional guests will be charged at the same package per-pax rate. | 额外人数将按照同一配套的人头价收费。",
+    "Maximum serving duration is 3 hours. | 最长供餐时间为 3 小时。",
+    "Reservation is suggested 5 days before the event with 30% deposit. | 建议活动前 5 天预订，并支付 30% 订金。",
+    "All prices exclude 10% service charge. | 所有价格不含 10% 服务费。",
+    "Pictures are for illustration purposes only. Ingredients may vary based on seasonal availability. | 图片仅供参考，食材会根据季节供应而调整。"
+  ]
+}

@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="La Taste x 3 Yue buffet event menu packages, 自助餐活动菜单, collapsible buffet menu and WhatsApp enquiry form.">
+    <title>La Taste x 3 Yue Buffet Event Menu | 自助餐活动菜单</title>
+    <link rel="preload" href="assets/images/hero-buffet.webp" as="image">
+    <link rel="stylesheet" href="styles.css?v=3">
+  </head>
+  <body>
+    <header class="site-header" id="top">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand-mark" href="#top" aria-label="La Taste x 3 Yue home">
+          <span>LT</span>
+          <strong>La Taste x 3 Yue</strong>
+        </a>
+        <div class="nav-links">
+          <a href="#packages">Packages</a>
+          <a href="#menu">Menu 菜单</a>
+          <a href="#gallery">Gallery</a>
+          <a href="#enquiry">Enquire 询问</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <picture>
+          <img id="hero-image" src="assets/images/hero-buffet.webp" alt="Premium buffet event setup" width="1536" height="1024">
+        </picture>
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+          <p class="eyebrow">Buffet event menu | 自助餐活动菜单</p>
+          <h1 id="hero-title">La Taste x 3 Yue</h1>
+          <p id="hero-tagline">Premium buffet experiences for celebrations, corporate events and private gatherings.</p>
+          <p class="zh" id="hero-tagline-zh">适合生日派对、宝宝满月、公司活动、婚礼及私人聚会的高级自助餐配套。</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#packages">View Packages 查看配套</a>
+            <a class="button ghost" href="#enquiry">WhatsApp Enquiry WhatsApp 询问</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="intro band">
+        <div class="section-copy">
+          <p class="eyebrow">Why choose us | 为什么选择我们</p>
+          <h2>Elegant food, styled for the moment.</h2>
+          <p class="section-zh">精致餐点，加上有质感的活动布置。</p>
+        </div>
+        <div class="highlight-grid" id="highlights"></div>
+      </section>
+
+      <section class="band light" id="packages">
+        <div class="section-copy">
+          <p class="eyebrow">Event packages | 活动配套</p>
+          <h2>Choose the setup that fits your guest list.</h2>
+          <p class="section-zh">根据人数、预算和布置需求选择适合的配套。</p>
+        </div>
+        <div class="package-grid" id="package-list"></div>
+      </section>
+
+      <section class="band" id="menu">
+        <div class="section-copy">
+          <p class="eyebrow">Buffet menu | 自助餐菜单</p>
+          <h2>Pick from crowd-friendly Asian and Western fusion favourites.</h2>
+          <p class="menu-select-note">Tick your preferred menu choices, then send enquiry by WhatsApp. | 勾选想要的菜单后，再用 WhatsApp 发给员工安排。</p>
+          <p class="section-zh">多款亚洲与西式融合菜色，适合不同年龄层宾客。</p>
+        </div>
+        <div class="accordion" id="menu-sections"></div>
+      </section>
+
+      <section class="gallery-section" id="gallery">
+        <div class="section-copy">
+          <p class="eyebrow">Gallery | 照片</p>
+          <h2>Styled buffet tables, dessert corners and celebration details.</h2>
+          <p class="section-zh">自助餐摆设、甜品区和活动布置参考。</p>
+        </div>
+        <div class="gallery-grid" id="gallery-grid"></div>
+      </section>
+
+      <section class="band light" id="enquiry">
+        <div class="section-copy">
+          <p class="eyebrow">Enquiry | 询问</p>
+          <h2>Send your event details directly to WhatsApp.</h2>
+          <p class="section-zh">填写活动资料后，会自动打开 WhatsApp 发送询问内容。</p>
+        </div>
+        <form class="enquiry-form" id="enquiry-form">
+          <label>
+            Name 姓名
+            <input name="name" type="text" autocomplete="name" placeholder="Your name / 您的姓名" required>
+          </label>
+          <label>
+            Event date 活动日期
+            <input name="date" type="date" required>
+          </label>
+          <label>
+            Pax 人数
+            <input name="pax" type="number" min="1" inputmode="numeric" placeholder="25" required>
+          </label>
+          <label>
+            Package 配套
+            <select name="package" id="package-select" required></select>
+          </label>
+          <label class="full">
+            Message 备注
+            <textarea name="message" rows="4" placeholder="Tell us your venue, occasion, preferred branch or menu questions. 请填写地点、活动类型、分店或菜单问题。"></textarea>
+          </label>
+          <button class="button primary full" type="submit">Open WhatsApp 打开 WhatsApp</button>
+        </form>
+      </section>
+
+      <section class="terms band">
+        <div class="section-copy">
+          <p class="eyebrow">Terms | 条款</p>
+          <h2>Before booking</h2>
+          <p class="section-zh">预订前请先查看以下事项。</p>
+        </div>
+        <ul id="terms-list"></ul>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div>
+        <strong>La Taste x 3 Yue</strong>
+        <p id="footer-contact">Gurun Branch: 012-5533 400 · Sg. Petani Branch: 012-4633 400</p>
+      </div>
+      <a href="#top">Back to top 回到顶部</a>
+    </footer>
+
+    <a class="whatsapp-float" id="whatsapp-float" href="#" aria-label="Enquire on WhatsApp">
+      <span>WA</span>
+    </a>
+
+    <script src="app.js?v=7" defer></script>
+  </body>
+</html>
